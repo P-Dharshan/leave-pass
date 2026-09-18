@@ -1,0 +1,7 @@
+{
+  "name": "LeavePass",
+  "description": "College student leave permission editor with automated approvals and real-time tracking",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
